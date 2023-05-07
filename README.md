@@ -7,3 +7,4 @@ O código front-end do site é de código aberto, bem-vindo para ajudar a otimiz
 * [código de front-end](https://github.com/xxai-art/web)
 * [Pacotes de idiomas para o site como um todo](https://github.com/xxai-art/web/tree/main/i18n)
 * [Pacotes de idiomas para módulos de login](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Documentação multilíngue do site](https://github.com/xxai-doc)
